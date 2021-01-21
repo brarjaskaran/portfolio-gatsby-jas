@@ -4,4 +4,4 @@ cover: './testimonial-3.jpg'
 title: 'Jordan Baker'
 ---
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+I would highly recommend Jas Internet Marketing. They are great to work with. The traffic to our website has increased thanks to their SEO program.

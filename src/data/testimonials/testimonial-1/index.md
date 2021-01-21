@@ -4,4 +4,4 @@ cover: './testimonial-1.jpg'
 title: 'Nick Carraway'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+My new site created by Jas just launched. He has done a great job of creating exactly what I wanted. Easy to work with and very responsive. He met all of my expectations and had a lot of insight regarding marketing tools I didn't know existed.

@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby.JS`,
+    title: `Jas Brar`,
     description: `Gatsby Markdown Personal Website Starter, using Styled Components, Tailwindcss and Framer Motion.`,
-    author: `Saimir Kapaj`
+    author: `Jaskaran Brar`
   },
   plugins: [
     `gatsby-plugin-typescript`,
@@ -58,6 +58,12 @@ module.exports = {
       options: {
         tailwind: true,
         purgeOnly: [`src/assets/styles/global.css`]
+      }
+    },
+    {
+      resolve: `gatsby-source-instagram`,
+      options: {
+        username: `7943829154`
       }
     }
   ]
