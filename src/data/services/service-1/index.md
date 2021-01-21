@@ -1,13 +1,6 @@
 ---
 category: 'services'
-title: 'Web Design'
+title: 'Website'
 icon: 'laptop-code'
-description: '(Up to 5 Pages
-Custom Design)
-(.com.au Domain Name (2 years))
-(Website Hosting with Cpanel)
-(5 Email Accounts)
-(Mobile and Tablet Responsive)
-(Search Engine Optimised)
-(Training and support on using your website)'
+description: 'Looking to build a new website or transform an existing one that isn’t performing? I create engaging websites that offer the very best in user experience and drive enquiries.'
 ---

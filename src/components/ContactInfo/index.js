@@ -37,7 +37,6 @@ const ConctactInfo = () => {
 
   return (
     <Container section>
-      <Instagram />
       <TitleSection title={sectionTitle.title} subtitle={sectionTitle.subtitle} center />
       {contacts.map((item) => {
         const {

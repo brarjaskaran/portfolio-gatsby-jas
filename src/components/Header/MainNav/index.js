@@ -18,6 +18,10 @@ const mainNavItems = [
   {
     title: 'Contact Me',
     slug: '/contact/'
+  },
+  {
+    title: 'Projects',
+    slug: '/projects/'
   }
 ];
 
