@@ -6,7 +6,6 @@ import Container from 'components/ui/Container';
 import TitleSection from 'components/ui/TitleSection';
 
 import * as Styled from './styles';
-import Instagram from 'components/instagram/Instagram';
 
 const ConctactInfo = () => {
   const { markdownRemark, allMarkdownRemark } = useStaticQuery(graphql`
