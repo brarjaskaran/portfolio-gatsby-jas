@@ -1,27 +1,29 @@
 ---
 category: 'blog'
-cover: './cover.jpg'
-title: 'Blog Post 1'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
-date: '2019-11-13'
-tags: ['Photography']
+cover: './cover.jpeg'
+title: 'The importance Quality Website for you Business'
+description: 'The importance of quality Website'
+date: '2021-01-03'
+tags: ['website']
 published: true
 ---
 
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat._.
+![Quality Website](./cover.jpeg)
 
-**Sed ut perspiciatis unde omnis**
+**A quality website is important for a business. Why?**
 
-![Aliquet vel mollis nec](./cover.jpg)
+People search the internet for businesses, products, services, etc. The days of relying on phone books are long gone. If someone needs to find information, they are most likely turning to the internet to find it. When they search for something you offer or specifically for your business, you want to show up- and not just show up- but show up and look good.
 
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+Looking good is important because your website is often your first impression you give potential customers. If they found you through a search or through a link a friend gave them, your website will be your first point of contact with them. Before they even see your store or talk to your staff, they will see your website. You want that first impression to be a good one.
 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+Your storefront and showroom look good, right? Why do they look good? Because you know customers will see them and form an opinion about the business based on them (in addition to factors such as customer service, quality, price, etc. of course). Think of your website as your digital storefront and showroom. People are looking at it and are forming an opinion about the business based on it. So make it look good!
 
-**Sconsectetur, adipisci velits**
+**What makes up a quality website?**
 
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+A quality website is clean, well-organized, easy to navigate, clear/concise, modern (in terms of style and layout), functional, branded, and motivates the visitor to do business with you. Information such as hours of operation, location, and contact info should be extremely easy to find. If you have social media profiles, buttons linked to these profiles should be present. People want a quick solution to their problem or a quick answer to their question. Make it easy for them. They also want to look at something that is visually appealing. Give them that with a quality website.
 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+A quality website looks good in all browsers. You should browser test your website to make sure it looks right and functions properly across all browsers.
 
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+A quality website also looks good and is easy to use on a mobile device. The current trend of increasing mobile use to access the internet means your website needs to be properly built and designed for optimal mobile viewing.
+
+A quality website is also well-polished. This means it has no spelling or grammatical errors, no lame clip art, no 1995 web design traits, no blurry images, no loose ends. Your content is complete and visually appealing. Fonts match across the entire website and font color and size choices have been properly made (yes, this means no lime green size 18 font on a white backdrop with a flashing clip art graphic underneath it).

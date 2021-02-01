@@ -1,25 +1,31 @@
 ---
 category: 'blog'
-cover: './cover.jpg'
-title: 'Blog Post 3'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
-date: '2020-01-12'
-tags: ['Design', 'Photoshop']
+cover: './cover.jpeg'
+title: 'Facebook Ads'
+description: 'Facebook Ads'
+date: '2020-08-12'
+tags: ['Advertisement', 'Facebook']
 published: true
 ---
 
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat._.
+!['Facebook'](./cover.jpeg)
 
-**Sed ut perspiciatis unde omnis**
+Over the last couple of weeks, I have mentioned the possibility of running Promoted Posts on Facebook to a few business owners. The common response: “I didn’t know there was such a thing.”
 
-![Aliquet vel mollis nec](./cover.jpg)
+This finding has prompted me to do a brief rundown of ad options for businesses on Facebook.
 
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+The first option is a basic ad to get more Page Likes or to drive traffic to a URL. This ad includes a headline, text, and an image.
 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+The second option is a Promoted Post, which entails paying to push a post that you make to an audience beyond those that already Like your Page.
 
-**Ut labore et dolore magnam**
+An additional sub-option for each ad option is the Sponsored Story, which helps people discover your business through their friends.
 
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+Ads can (and should) target a particular audience. Parameters you can target by include location, age, gender, interests, connections, relationship status, languages, education, and workplace.
 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+The budget for an ad campaign can be set per day or for the lifetime of the campaign. You can spend as little or as much as you want on a campaign. You also will set the start day/time and end day/time for the campaign, and you can stop the campaign at any time before the end day/time if you wish to.
+
+Bidding can be set to either optimize to get more Likes of your Page, optimize for clicks, or optimize for impressions. We typically go with the click route, that way you only get charged when someone actually clicks your ad. The amount you pay per click or per impression can also be chosen by you.
+
+Are Facebook ads worth it? That answer can be different for different cases. We have run several ads for businesses, and most have gone well. A recent Promoted Post we ran for a local business had a $50 budget and resulted in over 200 clicks and 40 new Page Likes – a real success in my opinion.
+
+My advice: If you are thinking about running a Facebook ad, give it a try. Set a budget you are comfortable with, craft a quality ad that speaks to your targeted audience, and see how it goes. Of course, if you need help or have any additional questions about running a Facebook ad feel free to reach out to us!
