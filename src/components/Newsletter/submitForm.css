@@ -1,0 +1,20 @@
+.submitForm {
+  margin: 20px;
+  display: flex;
+}
+
+.submitForm__input {
+  border: 1px orange solid;
+  border-radius: 20px;
+}
+.submitForm__message {
+  border: 1px orange solid;
+  border-radius: 20px;
+  width: 100%;
+}
+.submitForm__button {
+  border: 1px orange solid;
+  border-radius: 20px;
+  width: 100%;
+  background-color: orange;
+}

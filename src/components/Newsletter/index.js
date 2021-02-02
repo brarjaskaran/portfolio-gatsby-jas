@@ -6,6 +6,7 @@ import Button from 'components/ui/Button';
 import TitleSection from 'components/ui/TitleSection';
 
 import * as Styled from './styles';
+import './submitForm.css';
 
 const Newsletter = () => {
   const { markdownRemark } = useStaticQuery(graphql`
@@ -28,13 +29,46 @@ const Newsletter = () => {
     <Styled.Newsletter>
       <Container section>
         <TitleSection title={newsletter.title} subtitle={newsletter.subtitle} center />
-        <Styled.Form>
+        <form name="contact" method="post" className="submitForm">
+          <input type="hidden" name="form-name" value="contact" />
+          <div className="contact__name-email">
+            <p>
+              <label>
+                Your Name: <input className="submitForm__input" type="text" name="name" />
+              </label>
+            </p>
+
+            <p>
+              <label>
+                Phone: <input type="phone" className="submitForm__input" name="phone" />
+              </label>
+            </p>
+            <p>
+              <label>
+                Address: <input type="address" className="submitForm__input" name="address" />
+              </label>
+            </p>
+            <p>
+              <label>
+                Message: (Optional):{' '}
+                <textarea type="textarea" className="submitForm__message" name="message"></textarea>
+              </label>
+            </p>
+            <p>
+              <button className="submitForm__button " type="submit">
+                Send
+              </button>
+            </p>
+          </div>
+        </form>
+
+        {/* <Styled.Form>
           <Styled.Input type="text" placeholder={newsletter.namePlaceholder} />
           <Styled.Input type="email" placeholder={newsletter.emailPlaceholder} />
           <Button primary block>
             {newsletter.submitPlaceholder}
           </Button>
-        </Styled.Form>
+        </Styled.Form> */}
       </Container>
     </Styled.Newsletter>
   );
