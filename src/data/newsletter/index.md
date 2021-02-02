@@ -1,7 +1,7 @@
 ---
 category: 'newsletter section'
-title: 'Newsletter '
-subtitle: 'Subscribe to my mailing list'
+title: 'Contact'
+subtitle: 'Any Question?'
 namePlaceholder: 'First Name'
 emailPlaceholder: 'Email'
 submitPlaceholder: 'Subscribe'

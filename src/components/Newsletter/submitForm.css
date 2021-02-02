@@ -10,7 +10,7 @@
   border-radius: 20px;
 }
 .submitForm__message {
-  border: 1px palevioletred solid;
+  border: 1px lightgrey solid;
   border-radius: 20px;
   outline: none;
   padding: 10px;
@@ -18,8 +18,4 @@
   width: 100%;
 }
 .submitForm__button {
-  border: 1px orange solid;
-  border-radius: 20px;
-  width: 100%;
-  background-color: orange;
 }
