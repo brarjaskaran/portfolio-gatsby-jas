@@ -55,9 +55,9 @@ const Newsletter = () => {
               </label>
             </p>
             <p>
-              <button className="submitForm__button " type="submit">
+              <Button className="submitForm__button " type="submit">
                 Send
-              </button>
+              </Button>
             </p>
           </div>
         </form>
