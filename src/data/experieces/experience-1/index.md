@@ -2,8 +2,8 @@
 category: 'experiences'
 company: 'IndoTech Zone'
 position: 'FRONTEND WEB DEVELOPER'
-startDate: 'May 2018'
-endDate: 'Dec 2018'
+startDate: 'May 2016'
+endDate: 'Dec 2016'
 location: 'Ludhiana INDIA'
 ---
 
